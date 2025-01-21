@@ -6,7 +6,7 @@ const Usercard = () => {
   
   const profilePhoto = 'https://static.vecteezy.com/system/resources/thumbnails/002/318/271/small/user-profile-icon-free-vector.jpg'; 
   const name = 'Mary Jane';
-  const email = 'mary.jane@gmail.com';
+  const email = 'mary.jane07@gmail.com';
   const phoneNumber = '9984678234';
   const address = 'Somewhere on planet earth';
 
